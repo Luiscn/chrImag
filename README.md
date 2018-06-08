@@ -3,3 +3,4 @@ This program is used to convert image into a matrix of characters which looks si
 
 1. Store image in './input'
 2. Run './chr.py'
+3. Open generated './log.txt' (set font to 'Fixedsys' if using new Windows)
